@@ -26,4 +26,3 @@ Simulation result screenshot
 Contributors
 Deepak Sagar
 Ravi Kumar Yadav
-Saurabh Kumar
